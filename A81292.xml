@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True and remarkable passages from the last of October to this present day. From these severall places following; namely, from [brace] New-Castle. Durham. Rippon. The county of Lincolne. from Redding. Shrewsbury. Bristoll. Cornwall. Excester. Wherein are set down the daily machinations, and perverse practises of the malignant party against the Honourable the High Court of Parliament, with their ill successe in divers of their attempts and purposes. by W. D.</title>
+            <author>W. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81292</idno>
+            <idno type="STC">Wing D100</idno>
+            <idno type="STC">Thomason E126_35</idno>
+            <idno type="STC">ESTC R21757</idno>
+            <idno type="EEBO-CITATION">99871496</idno>
+            <idno type="PROQUEST">99871496</idno>
+            <idno type="VID">156183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156183)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True and remarkable passages from the last of October to this present day. From these severall places following; namely, from [brace] New-Castle. Durham. Rippon. The county of Lincolne. from Redding. Shrewsbury. Bristoll. Cornwall. Excester. Wherein are set down the daily machinations, and perverse practises of the malignant party against the Honourable the High Court of Parliament, with their ill successe in divers of their attempts and purposes. by W. D.</title>
+                  <author>W. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156183:1" rendition="simple:additions"/>
+            <p>True and Remarkable PASSAGES From the laſt of <hi>October</hi> to this preſent day.</p>
+            <p>From theſe ſeverall places following; namely, From
+<list>
+                  <item>New-Caſtle.</item>
+                  <item>Durham.</item>
+                  <item>Rippon.</item>
+                  <item>The County of Lincolne.</item>
+                  <item>Redding.</item>
+                  <item>Shrewsbury.</item>
+                  <item>Bristoll.</item>
+                  <item>Cornwall.</item>
+                  <item>Exceſter.</item>
+               </list>
+            </p>
+            <p>Wherein are ſet down the daily Machina<g ref="char:EOLhyphen"/>tions, and perverſe practiſes of the Malignant Party againſt the Honourable the High Court of Parliament, with their ill ſucceſſe in divers of their attempts and purpoſes. <add>Novemb. 9<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>By <hi>W.D.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Fr. Wright.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156183:2"/>
+            <pb n="3" facs="tcp:156183:2"/>
+            <head>Remarkable Paſſages from the laſt of <hi>October,</hi> to this peſent day.</head>
+            <div type="part">
+               <head>Newcaſtle.</head>
+               <p>IT is rertainly peported here, and we ſee it manifeſted before our eyes, that my Lord of Newcaſtle our Go<g ref="char:EOLhyphen"/>vernour does all he can poſſible, to advance the Cauſe of the malignants againſt the peace of the Kingdome and Parliament, borrowing here, by a certaine compulſive way, that they muſt lend ſpight of their teeths, what monyes he can poſſibly get, uſing, indeed, more rigorous exactions here then the Scots did during their abode with us: the ſaid Earle does what he can poſſible to incenſe the number of his forces, taking, as the Proverb is here, Tag-rag and bob-taile, men of all ſorts and con<g ref="char:EOLhyphen"/>ditions, eſpecially Papiſts, of which he had a conſide<g ref="char:EOLhyphen"/>rable number among his regiment, being rumour'd in the Biſhopricke of Durham and this County, to be eight thouſand ſtrong, when indeed, they cannot be foure thouſand, with the blacke Coats and all: the Clergie eſpecially in the Biſhoprick, like their leading Deane, Doctor <hi>Coſens,</hi> being moſt pertinacious malignants; he has endevour'd to ſeduce all the Sailers that man the Coal-ſhips, to his part, proffering them double pay, but thoſe honeſt men are not to be won to imploy their hands to ſo bad a purpoſe, reſolving rather to follow their lawfull vocations, then to be traytors to their Coun<g ref="char:EOLhyphen"/>try; we wiſh him. (ſo does all the poore and honeſt people hereabouts), at the divell, they make all things ſo deare with their rapine and devouring, that we feare a ſcarcity, if not a dearth in theſe plenteous parts.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:156183:3"/>
+               <head>Durham.</head>
+               <p>In this City drums are beating for Voluntiers for the Earl of <hi>Newcastle,</hi> but hee can get but a few, though the preachers exhort them to it in their pulpits. So odious is the cauſe, and the very name of Cavalier in theſe parts, to all but ſome few malignants.</p>
+            </div>
+            <div type="part">
+               <head>Rippon.</head>
+               <p>HEre wee are in great dread of my Lord of <hi>Cumber<g ref="char:EOLhyphen"/>land</hi> and his Cavaliers, who ride up and downe, and plunder where ſoever they come, ſparing neither man in their rage, nor woman in their luſt: ſome halfe a ſcore of thoſe rutters, or rather roiſters comming two dayes ſince to an honeſt gentlemans houſe, a Kinſman of my Lord <hi>Farefaxes:</hi> demanded of the gentlemen who unfortunately was at home, whether, hee would adhere to the King or Parliament the gentleman made anſwer, hee would with all his heart ſerve them both, but not the King againſt the parliament For the Parliament, he was certaine it would do nothing againſt the King. With which honeſt anſwer not nothing unſatisfied, but inraged, one of them calling him Traytor, diſcharged his petronell quite through his body, ſo that the good gentleman fell downe dead, they immedi<g ref="char:EOLhyphen"/>atly forcing in to his houſe, the defenceleſſe gentlewo<g ref="char:EOLhyphen"/>man agaſt at her husbands death, they tooke, and heating a paire of tongs, put them burning to her threat, to make her confeſſe where the Plate and Money was, which a<g ref="char:EOLhyphen"/>mounting to at leaſt the value of two hundred pound, they tooke away: in moſt vilde manner uſing the ſorrowfull gentlewoman they before her face, forced her two daugh<g ref="char:EOLhyphen"/>ters to ſatisfie their libidinous appetites. And one of them proffering the like villany to the dairy maid, a handſome luſty wench, was by her ſtab'd to the heart. A fit reward for ſuch a monſter. After their firing the houſe they depar<g ref="char:EOLhyphen"/>ted. Their Generall, though complaint was made by the
+<pb n="5" facs="tcp:156183:3"/>poore gentlewoman againſt them, doing her no Juſtice, Alleadging hee could not finde certainly who they were. God diliver us from the hands of ſuch blood thirſty Can<g ref="char:EOLhyphen"/>nobals.</p>
+            </div>
+            <div type="part">
+               <head>Lincolne.</head>
+               <p>IN theſe parts about <hi>Bourne</hi> and <hi>Stamford,</hi> as in other places of this County, there is much ſorrow and hea<g ref="char:EOLhyphen"/>vineſſe for the death of my Lord of <hi>Lindſey,</hi> ſlaine in the late battaile neer <hi>Keinton:</hi> the malignants, ſuch as Maſter <hi>Harringtou,</hi> Sir <hi>William Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orold,</hi> and the like, ſtriving what they can to ſeduce the people from their good affe<g ref="char:EOLhyphen"/>ctions to the Parliament, about <hi>Boston</hi> they rejoyce as faſt, the ſaid Lord having been a great and continuall enemy to that good towne, that wiſhes the like end to all that di<g ref="char:EOLhyphen"/>ſturbe and oppoſe the tranquility of this Kingdome,</p>
+            </div>
+            <div type="part">
+               <head>Redding.</head>
+               <p>HEre wee have been in great feare this two or three dayes of Prince <hi>Robert</hi> and his Cavaliers, who like torings Lions go about ſeeking whom they can devour, plundering and pilaging the Countryes round about us: No mans eſtate being his owne, or ſecure from the fingers of thoſe Harpies: as yet he hath not approached us. Wee could wiſh wee were of ability our ſelves, to ſecure our towne againſt his invaſion, wee would give him as good a welcome hither, as his aſcociat my Lord of <hi>Darby</hi> had at <hi>Manchester,</hi> but wee are not ſo well provided, and could wiſh a good able garriſon of the Parliaments For<g ref="char:EOLhyphen"/>ces, to ſecure our lives and liberties, which elſe wee are fearefull will run into much danger, by thoſe malignants cruelties.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:156183:4"/>
+               <head>Shrewsbury.</head>
+               <p>THe garriſon of welch and malignants in this towne doe great and daily miſchiefes, taking away both money and victuals and all other commodities from thoſe that frequent this towne with merchandice, ſo that the Countrey is afcaid to trade or trafficke to this towne at all, whereby it is very likely to fall in ſo great diſtreſſe and want of proviſion. They forrage on every ſide into the Countryes, ſo that all people here about, are in great and pitifull diſtreſſes, hunger wee heare at laſt will drive theſe deviliſh miſcrevants out of theſe quarters. <hi>Marquis Herford,</hi> it is here reported is gone into South-Wales a<g ref="char:EOLhyphen"/>gaine, where hee does all hee can poſſible to ſeduce thoſe poore ignorant Mountayners, who with a willing heart, or at leaſt by conſtraint, come to wait upon their Prince, whoſe governor the <hi>Marqueſſe</hi> is, Sir <hi>William Plimhimmon</hi> a Knight of North-Wales, being a conſtant ſtickler in his affaires, he living neere Llannidlos in North-Wales and having a large extent of ground there, the whole mountaines there abouts being the ſaid Sir <hi>Williams</hi> In<g ref="char:EOLhyphen"/>heritance. God bleſſe us from the ſaid <hi>Marquis</hi> and his crew of malignants, for then our miſeries will bee in<g ref="char:EOLhyphen"/>creaſe'd upon us.</p>
+            </div>
+            <div type="part">
+               <head>Briſtoll.</head>
+               <p>IN this rich and populous City, we are here in no dan<g ref="char:EOLhyphen"/>ger nor feare of any, Keeping loyall hearts and va<g ref="char:EOLhyphen"/>liant hands for the ſervice of the King and Parliament: our owne Forces in this City being ſufficient to defend our ſelves againſt any enemie whatſoever. Wee having fortified our towne with out-workes, as hornworks and a ſconce to Sommerſetſhire ward, whence if wee have any we expect our enemies the malignants, wee are in this towne eight thouſand of ſufficient able armed men,
+<pb n="7" facs="tcp:156183:4"/>whom we every day practiſe in the rudiments of war; good ſtore of excellent Ordnance, braſſe moſt of them, at leaſt thirty pieces of demy Canon, Culvering and halfe Culvering, mounted upon our workes, powder, ſhot and match, with other Ammunition, ſufficient victuals, wee need not feare the want of having the ſea and ſeavern to friend to bring us in victuals. There was a ſhip brought in hither the other day loaden with Ammunition and ſome ſpare Ordnance, they reported they were bound from Nants in Brittaine, for the low countries. But cer<g ref="char:EOLhyphen"/>tain they either were intended for the aſſiſtance of the Rebels in Ireland, or for Milford Haven in Wales to the <hi>Marquis Hartford</hi> there being letters found about one of the Marriners, were directed from one Maſter <hi>Wal<g ref="char:EOLhyphen"/>ter Monto</hi> to the Lord <hi>Marquis</hi> howſoever wee made of the ſhip and Ammunition, and have it in ſafe cuſtody, Till the. Parliament pleaſe to give order for its diſpoſall.</p>
+            </div>
+            <div type="part">
+               <head>Cornwall.</head>
+               <opener>
+                  <salute>Sir.</salute>
+               </opener>
+               <p>
+                  <hi>Ralph Hopton</hi> with the friends and Forces of this towne of <hi>Okchampton</hi> my Lord <hi>Mohunes</hi> are very ripe hereabouts, riding through this Dutchy of Corn<g ref="char:EOLhyphen"/>wall with great clamor and outrage ſome honeſt gen<g ref="char:EOLhyphen"/>tlemen, men interreſted very ſufficiently in the Flame<g ref="char:EOLhyphen"/>ries in this Countrey, and very well affected to the Parli<g ref="char:EOLhyphen"/>aments pleaſure, and the peace of the Kingdome, being much diſturbed by thoſe malignants excurſions and in<g ref="char:EOLhyphen"/>curſſions, Sir <hi>Ralph Hopton</hi> and my Lord <hi>Mohuns</hi> For<g ref="char:EOLhyphen"/>ces, being not ſo formidable here as they are ſuppoſed to bee. Beeing not above fifteen hundred hotſe, and two thouſand foot: poore Corniſh men moſt of them that are duced into the quarrell againſt the Parliament, and eaſi<g ref="char:EOLhyphen"/>ly vanquiſh'd if wee had here any ſuccour from the Par<g ref="char:EOLhyphen"/>liament to joyne with our owne Countrey forces, wee would live and dye in the cauſe.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:156183:5"/>
+               <head>Exceſter.</head>
+               <p>ALl the diſcourſe here, is of the Kings and Prince <hi>Roberts</hi> diſſertion of your parts, and their ſpeedy march with their Cavaliers downe into our quarters, where the enjoyning their Forces, with thoſe of Sir <hi>Ralph Hopton,</hi> and my Lord <hi>Mohun</hi> is expected and cer<g ref="char:EOLhyphen"/>tainly talked of. For our parts wee know we can no wayes have a poſſibility of ſerving his Majeſty better than in ſerving his high Court of Parliament, ſo that our Maior and Aldermen with the intire body of the towne, are reſolv'd to ſtand for the common-Wealth. wee alrea<g ref="char:EOLhyphen"/>dy have made good the decayd wals, &amp; fortified our town with good and hanſome outworkes, have Ordnance plan<g ref="char:EOLhyphen"/>ted, and indifferent ſtore of Ammunition, and ſome quantity of reſolv'd Souldiers to ſtand for the King and Parliament. Wee have, thankes be to God but few ma<g ref="char:EOLhyphen"/>lignants in our City. And if the King come hither, wee are reſolv'd to give his Majeſty entertainment as be<g ref="char:EOLhyphen"/>fits loyall Subjects, but without admitting his Army of Cavaliers, the diſturbers of the publick peace and ſafety.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
